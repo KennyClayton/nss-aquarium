@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: .5em;    
+}
+
+.shop {
+    flex-basis: 26%;
+    text-align: left;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: .5em;
+}
